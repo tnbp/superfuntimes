@@ -130,6 +130,6 @@ function weird_magic() {
     weird_expand();
     
     function weird_download() {
-        window.location = "assets/small-site.zip";
+        window.location = "assets/superfuntimes.zip";
     }
 }
