@@ -1,0 +1,52 @@
+#bigbox {
+    /*
+     *  DO NOT TOUCH THIS
+     */
+    border: 10px solid black;
+    margin: 0px 0px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 500px;
+    width: 500px;
+}
+
+#yellowbox {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+}
+
+#redbox {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 50px;
+}
+
+#bluebox {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 100px;
+}
+
+#greenbox {
+    background-color: green;
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    top: 200px;
+}
+
+#weirdbox {
+    background-color: #facade;
+    height: 250px;
+    width: 50px;
+    position: absolute;
+    top: 250px;
+}
